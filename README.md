@@ -1,12 +1,12 @@
 # 能力仓库 Mac
 
-[下载最新版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
+[下载 DMG 安装包](https://github.com/Henryai9857/capability-library-releases/releases/download/v0.17.1/CapabilityLibrary-0.17.1.dmg) · [所有版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
 
 需要 Apple Silicon（M 系列芯片），macOS 14 或更新系统；暂不支持 Intel Mac。
 
 ## 安装与连接
 
-1. 下载 Release 中的 `CapabilityLibrary-版本.zip`，解压，将“能力仓库.app”移到“应用程序”。
+1. 下载 Release 中的 `CapabilityLibrary-版本.dmg`，双击打开，将“能力仓库.app”拖到旁边的 `Applications`（应用程序）快捷方式。复制完成后推出安装磁盘，从“应用程序”打开。若旧版正在运行，请先退出。ZIP 保留用于自动更新或手动解压安装；不要下载 Source code。
 2. 本软件为本机签名预览版，**未经过 Apple 公证**。首次打开如被 macOS 阻止，请确认来源后自行按系统“隐私与安全性”提示操作。企业受管 Mac 可能不允许运行。不要关闭系统安全保护。
 3. 在飞书连接设置输入你自己的 App ID 和 App Secret；密钥仅保存在你的 Mac 钥匙串。你的飞书应用必须由台账／文档管理者授予读写权限。共享同一台账和文档即可协作。
 
