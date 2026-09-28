@@ -3,13 +3,13 @@
     <channel>
         <title>能力仓库</title>
         <item>
-            <title>0.19.1</title>
-            <pubDate>Mon, 28 Sep 2026 13:58:18 +0800</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
+            <title>0.19.2</title>
+            <pubDate>Mon, 28 Sep 2026 14:08:33 +0800</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.19.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.19.1/CapabilityLibrary-0.19.1.zip" length="2111683" type="application/octet-stream" sparkle:edSignature="QhtttfX3TiAe7V0l5kuLZRBU5VA0rSS+wvaxwTvPbhpQlPICLWve8qWd3sG8VcfjKxFRKQ4EcPD6yA0UC38PBQ==" />
-        <description>右上角按钮和菜单入口统一显示“新增卡片”，已有草稿恢复逻辑保持原样。本机签名预览版，未经过 Apple 公证。</description></item>
+            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.19.2/CapabilityLibrary-0.19.2.zip" length="2112215" type="application/octet-stream" sparkle:edSignature="O+8Dgq0C1XlKx2UDvPJwCivvdRh9FH9dJ7yfdUoR7X+Tc0czgJWuhnl6etcK+80QkuEgVPazZdTyJfV870poCw==" />
+        <description>封面上传区增加圆角边框，移除辅助小字；粘贴图片和上传封面按钮移至标题下方左侧。本机签名预览版，未经过 Apple 公证。</description></item>
     </channel>
 </rss>

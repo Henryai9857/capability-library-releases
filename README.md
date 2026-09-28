@@ -1,6 +1,6 @@
 # 能力仓库 Mac
 
-[下载 DMG 安装包](https://github.com/Henryai9857/capability-library-releases/releases/download/v0.19.1/CapabilityLibrary-0.19.1.dmg) · [所有版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
+[下载 DMG 安装包](https://github.com/Henryai9857/capability-library-releases/releases/download/v0.19.2/CapabilityLibrary-0.19.2.dmg) · [所有版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
 
 需要 Apple Silicon（M 系列芯片），macOS 14 或更新系统；暂不支持 Intel Mac。
 
