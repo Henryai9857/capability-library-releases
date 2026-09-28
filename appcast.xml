@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>能力仓库更新</title>
-    <link>https://henryai9857.github.io/capability-library-releases/</link>
-    <description>正式版本更新；尚无通过签名、公证验收的安装包。</description>
-    <language>zh-cn</language>
-  </channel>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>能力仓库</title>
+        <item>
+            <title>0.17.1</title>
+            <pubDate>Mon, 28 Sep 2026 09:59:47 +0800</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.17.1/CapabilityLibrary-0.17.1.zip" length="2050057" type="application/octet-stream" sparkle:edSignature="X7K/1TZZee/GaLtlShHtd17rfM2CSduIlwR2y65ZEqntP+LE4S/TteP1hd+iUYrSGS6nztPpzseZRQokqzWuCQ==" />
+        <description>本机签名预览版，未经过 Apple 公证。新增自动检查与手动更新，保留本机草稿与设置；更新包通过 EdDSA 验签。需要 Apple Silicon、macOS 14 或更新版本。</description></item>
+    </channel>
 </rss>
