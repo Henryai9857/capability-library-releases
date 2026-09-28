@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>能力仓库更新</title>
+    <link>https://henryai9857.github.io/capability-library-releases/</link>
+    <description>正式版本更新；尚无通过签名、公证验收的安装包。</description>
+    <language>zh-cn</language>
+  </channel>
+</rss>
