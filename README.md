@@ -1,6 +1,6 @@
 # 能力仓库 Mac
 
-[下载 DMG 安装包](https://github.com/Henryai9857/capability-library-releases/releases/download/v0.18.1/CapabilityLibrary-0.18.1.dmg) · [所有版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
+[下载 DMG 安装包](https://github.com/Henryai9857/capability-library-releases/releases/download/v0.19.0/CapabilityLibrary-0.19.0.dmg) · [所有版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
 
 需要 Apple Silicon（M 系列芯片），macOS 14 或更新系统；暂不支持 Intel Mac。
 
@@ -22,4 +22,4 @@
 
 ## 使用指南
 
-首次打开 0.18.0 会显示五步引导，支持跳过。以后可从侧栏“使用指南”或“帮助 → 使用指南…”重新查看。
+首次打开 0.19.0 会显示黑色蒙层与气泡引导，逐个高亮实际功能入口，支持上一步、下一步和跳过。可从“帮助 → 重看气泡引导…”再次查看；侧栏“使用指南”仍保留完整说明。
