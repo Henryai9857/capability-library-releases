@@ -3,13 +3,13 @@
     <channel>
         <title>能力仓库</title>
         <item>
-            <title>0.19.0</title>
-            <pubDate>Mon, 28 Sep 2026 13:45:11 +0800</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+            <title>0.19.1</title>
+            <pubDate>Mon, 28 Sep 2026 13:58:18 +0800</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.19.0/CapabilityLibrary-0.19.0.zip" length="2111821" type="application/octet-stream" sparkle:edSignature="k7rAmHKgvhaTutGwJnwMOcFuDN/7k6El7jFSpK4dzzBGTtMTcsS6ox93gpjHT5jEOMJiM7aL6Waztdtab6m0Bw==" />
-        <description>新手引导改为黑色蒙层、高亮功能入口与白色气泡，支持上一步、下一步和跳过；帮助菜单可重新查看。原完整使用指南保留，中文更新界面保持。本机签名预览版，未经过 Apple 公证。</description></item>
+            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.19.1/CapabilityLibrary-0.19.1.zip" length="2111683" type="application/octet-stream" sparkle:edSignature="QhtttfX3TiAe7V0l5kuLZRBU5VA0rSS+wvaxwTvPbhpQlPICLWve8qWd3sG8VcfjKxFRKQ4EcPD6yA0UC38PBQ==" />
+        <description>右上角按钮和菜单入口统一显示“新增卡片”，已有草稿恢复逻辑保持原样。本机签名预览版，未经过 Apple 公证。</description></item>
     </channel>
 </rss>
