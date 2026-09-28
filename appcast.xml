@@ -3,16 +3,16 @@
     <channel>
         <title>能力仓库</title>
         <item>
-            <title>0.20.0</title>
-            <pubDate>Mon, 28 Sep 2026 22:05:06 +0800</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+            <title>0.20.1</title>
+            <pubDate>Mon, 28 Sep 2026 22:41:08 +0800</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.20.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.20.0/CapabilityLibrary-0.20.0.zip" length="2125453" type="application/octet-stream" sparkle:edSignature="IvRw5RLQHST51qzwHCuQRUKXgXjQjTHyql4idDWP2+wP2dEDmk7ZkjpbyXzOIxEcNQOUyb7JMbE3BpWzQG84Bw==" />
-        <description>修复保存失败提示：区分卡片已保存与详细文档未完成，显示操作阶段与安全错误码；缺少应用权限的明确拒绝支持补授权后继续原操作。新增卡片详情中的删除入口，确认后同步删除台账记录，保留关联文档；需开通 base:record:delete 应用身份权限并发布。未知创建结果仍阻止重复创建。
+            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.20.1/CapabilityLibrary-0.20.1.zip" length="2126851" type="application/octet-stream" sparkle:edSignature="F/hVCQrjVtvzHD0cC13GWd/upDe5QU1OC9MEwpYyKw9t/21Zp05uZWSiwCJj9FJtOza9bcXQaGyQzhq6NTSyBA==" />
+        <description>详情入口“继续草稿”改为“继续编辑”。编辑窗口右上角改为“关闭并保存卡片”，卡片保存成功后关闭，失败时保留窗口。详细文档正文仍单独保存，关闭前保留其本机草稿。
 
-本机签名预览版，未经 Apple 公证。Apple Silicon，macOS 14+。
+本机签名预览版，未经 Apple 公证。
 </description></item>
     </channel>
 </rss>
