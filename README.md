@@ -1,6 +1,6 @@
 # 能力仓库 Mac
 
-[下载 DMG 安装包](https://github.com/Henryai9857/capability-library-releases/releases/download/v0.19.2/CapabilityLibrary-0.19.2.dmg) · [所有版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
+[下载 DMG 安装包](https://github.com/Henryai9857/capability-library-releases/releases/download/v0.20.0/CapabilityLibrary-0.20.0.dmg) · [所有版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
 
 需要 Apple Silicon（M 系列芯片），macOS 14 或更新系统；暂不支持 Intel Mac。
 
@@ -23,3 +23,9 @@
 ## 使用指南
 
 首次打开 0.19.0 会显示黑色蒙层与气泡引导，逐个高亮实际功能入口，支持上一步、下一步和跳过。可从“帮助 → 重看气泡引导…”再次查看；侧栏“使用指南”仍保留完整说明。
+
+## 保存与删除
+
+卡片记录与详细文档分步保存。若提示卡片已保存、文档未完成，请继续原草稿，不要重新新增。复制模板需应用身份权限 `docs:document:copy`，并单独授权当前应用访问模板和编辑存放目录；只授权多维表格还不够。结果不明时先检查文档库，已有文档可在台账“详细文档”列手动关联后继续。
+
+详情右上角可删除卡片，确认后同步删除台账记录，关联文档保留；其他成员也会看到删除结果。需要应用身份权限 `base:record:delete` 并发布应用版本，以及台账编辑授权。应用内不提供删除撤回；有其他人刚修改过卡片时，会先要求重新核对。

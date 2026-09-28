@@ -3,13 +3,16 @@
     <channel>
         <title>能力仓库</title>
         <item>
-            <title>0.19.2</title>
-            <pubDate>Mon, 28 Sep 2026 14:08:33 +0800</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>0.19.2</sparkle:shortVersionString>
+            <title>0.20.0</title>
+            <pubDate>Mon, 28 Sep 2026 22:05:06 +0800</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.19.2/CapabilityLibrary-0.19.2.zip" length="2112215" type="application/octet-stream" sparkle:edSignature="O+8Dgq0C1XlKx2UDvPJwCivvdRh9FH9dJ7yfdUoR7X+Tc0czgJWuhnl6etcK+80QkuEgVPazZdTyJfV870poCw==" />
-        <description>封面上传区增加圆角边框，移除辅助小字；粘贴图片和上传封面按钮移至标题下方左侧。本机签名预览版，未经过 Apple 公证。</description></item>
+            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.20.0/CapabilityLibrary-0.20.0.zip" length="2125453" type="application/octet-stream" sparkle:edSignature="IvRw5RLQHST51qzwHCuQRUKXgXjQjTHyql4idDWP2+wP2dEDmk7ZkjpbyXzOIxEcNQOUyb7JMbE3BpWzQG84Bw==" />
+        <description>修复保存失败提示：区分卡片已保存与详细文档未完成，显示操作阶段与安全错误码；缺少应用权限的明确拒绝支持补授权后继续原操作。新增卡片详情中的删除入口，确认后同步删除台账记录，保留关联文档；需开通 base:record:delete 应用身份权限并发布。未知创建结果仍阻止重复创建。
+
+本机签名预览版，未经 Apple 公证。Apple Silicon，macOS 14+。
+</description></item>
     </channel>
 </rss>
