@@ -3,13 +3,13 @@
     <channel>
         <title>能力仓库</title>
         <item>
-            <title>0.18.0</title>
-            <pubDate>Mon, 28 Sep 2026 11:48:02 +0800</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+            <title>0.18.1</title>
+            <pubDate>Mon, 28 Sep 2026 11:53:19 +0800</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.18.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.18.0/CapabilityLibrary-0.18.0.zip" length="2082594" type="application/octet-stream" sparkle:edSignature="iSotiMNjLbXKL5EjHmA7GKzw8ekYWYp/6cGhkzWThgYeyzi1ZjVurHi0Aw1QglB3imAN+vL1F9iyqepQrXFDBA==" />
-        <description>新增五步新手引导：连接飞书、查找卡片、编辑文档、封面与图片、同步与更新。首次运行本版自动展示，可跳过，随时从侧栏或帮助菜单重新打开。本机签名预览版，未经过 Apple 公证。</description></item>
+            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.18.1/CapabilityLibrary-0.18.1.zip" length="2082639" type="application/octet-stream" sparkle:edSignature="LDiZwUSHj6lAYpBt7eyylFW3nbEXa+wv4fpDKuRT65emgRmPD8OGlFf5AOQ67h/q3GGmPE7ZTWu6NyvJhPX3Dg==" />
+        <description>更新界面改为简体中文：更新提示、安装更新、跳过这个版本、稍后提醒我、下载进度及安装重启。保留五步新手引导。注意：本次更新前的窗口仍由旧版显示，安装本版后生效。本机签名预览版，未经过 Apple 公证。</description></item>
     </channel>
 </rss>
