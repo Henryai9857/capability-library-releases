@@ -3,13 +3,13 @@
     <channel>
         <title>能力仓库</title>
         <item>
-            <title>0.21.1</title>
-            <pubDate>Fri, 09 Oct 2026 17:30:15 +0800</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>0.21.1</sparkle:shortVersionString>
+            <title>0.21.2</title>
+            <pubDate>Fri, 09 Oct 2026 19:54:33 +0800</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>0.21.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.21.1/CapabilityLibrary-0.21.1.zip" length="2225128" type="application/octet-stream" sparkle:edSignature="pYziV9fYSvHheA8WBYixtDSdJ5upQusUgDUZROgDqFcTlGzGx+63k7Jisg7C7ArWGewicdS4CkeoZPIxaPrRAw==" />
-        <description>新增共同归属卡片的二次删除提醒：显示全部归属人，先与其他归属人确认并勾选后才能删除。确认窗口重开即重置；远端内容或归属变化会停止删除。本机回收站恢复继续保留。本机签名预览版，未经 Apple 公证。</description></item>
+            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.21.2/CapabilityLibrary-0.21.2.zip" length="2224560" type="application/octet-stream" sparkle:edSignature="mH25JMRpO2aKBI9JpJltfyWenRnV9NAymoNLxvT0r79SDn7tH3qBJsltBqoZIpo3t5V0GBNvFVWR6tOE7WEWBA==" />
+        <description>精简回收站顶部说明，移除关于本机备份范围及保留时间的一行小字。本机签名预览版，未经 Apple 公证。</description></item>
     </channel>
 </rss>
