@@ -3,16 +3,13 @@
     <channel>
         <title>能力仓库</title>
         <item>
-            <title>0.20.1</title>
-            <pubDate>Mon, 28 Sep 2026 22:41:08 +0800</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>0.20.1</sparkle:shortVersionString>
+            <title>0.21.0</title>
+            <pubDate>Fri, 09 Oct 2026 17:04:07 +0800</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.20.1/CapabilityLibrary-0.20.1.zip" length="2126851" type="application/octet-stream" sparkle:edSignature="F/hVCQrjVtvzHD0cC13GWd/upDe5QU1OC9MEwpYyKw9t/21Zp05uZWSiwCJj9FJtOza9bcXQaGyQzhq6NTSyBA==" />
-        <description>详情入口“继续草稿”改为“继续编辑”。编辑窗口右上角改为“关闭并保存卡片”，卡片保存成功后关闭，失败时保留窗口。详细文档正文仍单独保存，关闭前保留其本机草稿。
-
-本机签名预览版，未经 Apple 公证。
-</description></item>
+            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.21.0/CapabilityLibrary-0.21.0.zip" length="2207267" type="application/octet-stream" sparkle:edSignature="/vG+PZklZwXMMjjN88mQwX4v5oSLnFfoFeJVwDKBPGTFetikjM0YsVGY3EgPO8p77AYx3h4HtF4dCaPhfcN0BA==" />
+        <description>新增本机回收站：删除卡片前保存信息、封面与卡片草稿，备份失败则停止删除。误删后从侧栏“回收站”恢复到原飞书台账，保留原详细文档关联，恢复后其他成员可同步看到。支持搜索、退出后恢复及网络异常的重复新增保护。只覆盖新版启用后在这台 Mac 删除的卡片，不自动过期；恢复记录获得新 ID。每人使用自己的应用凭据，安装包不含用户数据。本机签名预览版，未经 Apple 公证。</description></item>
     </channel>
 </rss>
