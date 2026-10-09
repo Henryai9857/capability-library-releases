@@ -1,6 +1,6 @@
 # 能力仓库 Mac
 
-[下载 DMG 安装包](https://github.com/Henryai9857/capability-library-releases/releases/download/v0.21.0/CapabilityLibrary-0.21.0.dmg) · [所有版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
+[下载 DMG 安装包](https://github.com/Henryai9857/capability-library-releases/releases/download/v0.21.1/CapabilityLibrary-0.21.1.dmg) · [所有版本](https://github.com/Henryai9857/capability-library-releases/releases/latest)
 
 需要 Apple Silicon（M 系列芯片），macOS 14 或更新系统；暂不支持 Intel Mac。
 
@@ -29,3 +29,5 @@
 卡片记录与详细文档分步保存。若提示卡片已保存、文档未完成，请继续原草稿，不要重新新增。复制模板需应用身份权限 `docs:document:copy`，并单独授权当前应用访问模板和编辑存放目录；只授权多维表格还不够。结果不明时先检查文档库，已有文档可在台账“详细文档”列手动关联后继续。
 
 详情右上角可删除卡片，确认后同步删除台账记录，关联文档保留；其他成员也会看到删除结果。需要应用身份权限 `base:record:delete` 并发布应用版本，以及台账编辑授权。0.21.0 起先保存本机回收站备份，误删后可从侧栏“回收站”恢复卡片、封面和原文档关联。备份失败不会删除；有其他人刚修改过卡片时，会先要求重新核对。回收站只覆盖新版启用后、在执行删除的这台电脑上产生的备份，不自动过期；恢复确认后移除。恢复会新增台账记录，不还原旧记录 ID 或历史。
+
+0.21.1 起，共同归属卡片需第二次确认，显示全部归属人，并勾选已与其他归属人确认后才能删除。确认窗口重开即重置；远端归属或内容变化时停止删除。该提醒不自动发送消息或收集对方审批。
