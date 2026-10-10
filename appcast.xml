@@ -3,13 +3,13 @@
     <channel>
         <title>能力仓库</title>
         <item>
-            <title>0.21.2</title>
-            <pubDate>Fri, 09 Oct 2026 19:54:33 +0800</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>0.21.2</sparkle:shortVersionString>
+            <title>0.21.3</title>
+            <pubDate>Sat, 10 Oct 2026 11:13:22 +0800</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.21.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.21.2/CapabilityLibrary-0.21.2.zip" length="2224560" type="application/octet-stream" sparkle:edSignature="mH25JMRpO2aKBI9JpJltfyWenRnV9NAymoNLxvT0r79SDn7tH3qBJsltBqoZIpo3t5V0GBNvFVWR6tOE7WEWBA==" />
-        <description>精简回收站顶部说明，移除关于本机备份范围及保留时间的一行小字。本机签名预览版，未经 Apple 公证。</description></item>
+            <enclosure url="https://github.com/Henryai9857/capability-library-releases/releases/download/v0.21.3/CapabilityLibrary-0.21.3.zip" length="2224645" type="application/octet-stream" sparkle:edSignature="F4dgwGt0Zyyr4FH8ndx1SpQTwoy5N+4JUzRqhGaCXUiUKnYWvytNWsgsT/2N+S7ni2lVEpnB8AVf9saoBIwxDg==" />
+        <description>新增和编辑卡片弹窗右上角按钮更名为“保存并关闭”。本机签名预览版，未经 Apple 公证。</description></item>
     </channel>
 </rss>
